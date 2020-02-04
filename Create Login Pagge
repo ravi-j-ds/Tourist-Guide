@@ -1,18 +1,37 @@
 Hello User..
 
-Welcome to the Login page.
+Welcome to the SignIn / SignUp page.
 
 
 Thank you all ..:) 
 
+
+
 SignUp for Tourist:
+************************************
+1. User name: Yoour mail id
+      ##### Mail Verification will be done in Background for authentic process.
 
-User name: Yoour mail id
+2. Passsword : Create your own password 
 
-passsword : Create your own password
+***# Password must hold atleast One Capital Letter with combination of characters and 
+***# Synbols , must contain atleast 8 characters
 
-country: Enter your country name
+*** # Country column not needed -- country: Enter your country name
 
-Confirm Password
+3. Confirm Password
 
-Commit for sign up
+4. Commit for sign up
+
+*****************************
+
+SignIn User:
+******************************************
+1. user name - mail_ID
+
+2. password - ***********
+  2.1. SignIn.....
+
+3. Forgot passWord ?
+    ReCreate new pass Word by User Name:
+              
